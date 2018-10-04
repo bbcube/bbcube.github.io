@@ -178,7 +178,7 @@ transform: scale(1.05);}
     #pattern {
       width:376px;
       height:100vh;
-      background: url("../images/sliding2.png") repeat-x;
+      background: url("../images/sliding2.png") repeat-y;
       animation: slide 60s linear infinite;
       overflow: hidden;
     }
