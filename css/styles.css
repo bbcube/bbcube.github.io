@@ -170,7 +170,7 @@ transform: scale(1.05);}
     #logo {width:150px;height:50px;}
     #bwc {width:90%;height:80%;background-image: url('../images/bwc2.png');}
 
-    #pattern{height:90vh;}
+    #pattern {width:100%;}
 
 
     form { margin-top: -100px; display: flex; justify-content: center;
