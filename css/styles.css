@@ -191,6 +191,7 @@ transform: scale(1.05);}
 
     #mailchimp input[type="email"]{
       font-size: 1rem;
+      margin-top: -150px;
       -webkit-appearance: none;
     }
 
@@ -201,9 +202,14 @@ transform: scale(1.05);}
 
     }
 
-    .top{height:15vh;};
-    .hero{height:45vh;};
+    .top{height:15vh;}
+    .hero{height:45vh;}
     .bottom{height:40vh;}
+
+    ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+      color: #fdce07;
+      text-align: center;
+    }
 
 
 }
