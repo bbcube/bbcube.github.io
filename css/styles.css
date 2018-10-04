@@ -198,7 +198,12 @@ transform: scale(1.05);}
     #mailchimp input[type="submit"]:focus {
         margin-left: 0px;
         -webkit-appearance: none;
+
     }
+
+    .top{height:15vh;};
+    .hero{height:45vh;};
+    .bottom{height:40vh;}
 
 
 }
