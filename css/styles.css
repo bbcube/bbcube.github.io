@@ -176,13 +176,24 @@ transform: scale(1.05);}
     #bwc {width:90%;height:80%;background-image: url('../images/bwc2.png');}
 
     #pattern {
-      width:376px;
+      position:absolute;
+      z-index: -4;
+      width:375px;
       height:100vh;
-      background: url("../images/sliding2.png") repeat-y;
+      background: url("../images/sliding.png") repeat-x;
       animation: slide 60s linear infinite;
       overflow: hidden;
     }
 
+
+    @keyframes slide{
+      0%{
+        transform: translate3d(0, 0, 0);
+      }
+      100%{
+        transform: translate3d(-375px, 0, 0);
+      }
+    }
 
     form { margin-top: -100px; display: flex; justify-content: center;
     align-items: center; flex-wrap: wrap; flex-direction:column; }
