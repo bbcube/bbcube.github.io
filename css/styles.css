@@ -176,6 +176,8 @@ transform: scale(1.05);}
     #bwc {width:90%;height:80%;background-image: url('../images/bwc2.png');}
 
     #pattern {
+      width:375px;
+      background: url("../images/sliding2.png") repeat-x;
       animation: none;
     }
 
