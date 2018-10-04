@@ -110,7 +110,8 @@ body {
   background: transparent;
   font-size: 1.2rem;
   font-family: Larsseit, sans-serif;
-  transition: all 0.1s ease-in-out
+  transition: all 0.1s ease-in-out;
+  -webkit-appearance: none;
 }
 
 #mailchimp input[type="submit"]{
@@ -123,7 +124,8 @@ body {
   background: #fdce07;
   cursor: pointer;
   margin-left: 10px;
-  transition: all 0.1s ease-in-out
+  transition: all 0.1s ease-in-out;
+  -webkit-appearance: none;
 }
 
 ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
@@ -134,7 +136,7 @@ body {
 #mailchimp input[type="email"]:hover,
 #mailchimp input[type="email"]:focus {
     border: 2px solid #ec186a;
-    outline: none;
+    -webkit-outline: none;
 }
 
 
@@ -143,7 +145,7 @@ body {
     background: #ec186a;
     border: 2px solid #ec186a;
     margin-left: 5px;
-    outline: none;
+    -webkit-outline: none;
 }
 
 #mailchimp input[type="submit"]:active {
@@ -151,32 +153,16 @@ transform: scale(1.05);}
 
 
 
-
-
-#toplayer {
-  position: absolute;
-  display: inline-block;
-  padding: 0.5rem 2rem;
-  color: #fdce07;
-  font-size: 1.2rem;
-  font-family: Larsseit, sans-serif;
-  border: 2px solid #fdce07;
-  border-radius: 3px;
-  background: #050a37;
-  cursor: pointer;
-  text-align: center;
-  transition: all 0.2s ease-in-out;
-  -webkit-user-select: none;
-}
-
 @media all and (min-width: 568px) and (max-width: 1304px){
 
+    body{overflow: hidden;}
     #badge {width:150px;height:150px;margin-top:60px;right:60px;}
 
 }
 
 @media all and (min-width: 360px) and (max-width: 568px){
 
+    body{overflow: hidden;}
     #badge {width:120px;height:120px;margin-top:10vh;right:30px;}
     #logo {width:150px;height:50px;}
     #bwc {width:90%;height:80%;background-image: url('../images/bwc2.png');}
@@ -190,15 +176,18 @@ transform: scale(1.05);}
       margin-left: 0px;
       width:100%;
       font-size: 1rem;
+      -webkit-appearance: none;
     }
 
     #mailchimp input[type="email"]{
       font-size: 1rem;
+      -webkit-appearance: none;
     }
 
     #mailchimp input[type="submit"]:hover,
     #mailchimp input[type="submit"]:focus {
         margin-left: 0px;
+        -webkit-appearance: none;
     }
 
 
