@@ -78,6 +78,11 @@ body {
   transform: rotate(10deg);
 }
 
+#wrapper{
+  width:100%;
+  overflow: hidden;
+}
+
 #pattern {
   position:absolute;
   z-index: -4;
