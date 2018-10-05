@@ -147,6 +147,7 @@ body {
 #mailchimp input[type="email"]:focus {
     border: 2px solid #ec186a;
     -webkit-outline: none;
+    outline: 0;
 }
 
 
@@ -156,6 +157,7 @@ body {
     border: 2px solid #ec186a;
     margin-left: 5px;
     -webkit-outline: none;
+    outline: 0;
 }
 
 #mailchimp input[type="submit"]:active {

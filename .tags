@@ -1,63 +1,6 @@
 !_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
-!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
 !_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-html	/Users/stars/Documents/Weiwei/website/bbcube.github.io/index.html	/^<html>$/;"	function	line:2
-head	/Users/stars/Documents/Weiwei/website/bbcube.github.io/index.html	/^<head>$/;"	function	line:3
-meta	/Users/stars/Documents/Weiwei/website/bbcube.github.io/index.html	/^  <meta charset="utf-8">$/;"	function	line:5
-meta	/Users/stars/Documents/Weiwei/website/bbcube.github.io/index.html	/^  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">$/;"	function	line:6
-title	/Users/stars/Documents/Weiwei/website/bbcube.github.io/index.html	/^  <title>BBCube<\/title>$/;"	function	line:7
-meta	/Users/stars/Documents/Weiwei/website/bbcube.github.io/index.html	/^  <meta name="description" content="">$/;"	function	line:8
-meta	/Users/stars/Documents/Weiwei/website/bbcube.github.io/index.html	/^  <meta name="viewport" content="width=device-width">$/;"	function	line:9
-link	/Users/stars/Documents/Weiwei/website/bbcube.github.io/index.html	/^  <link type="text\/css" rel="stylesheet" href="css\/styles.css"\/>$/;"	function	line:10
-link	/Users/stars/Documents/Weiwei/website/bbcube.github.io/index.html	/^  <link rel="shortcut icon" type="image\/png" href="images\/favicon.png">$/;"	function	line:11
-body	/Users/stars/Documents/Weiwei/website/bbcube.github.io/index.html	/^<body>$/;"	function	line:15
-div	/Users/stars/Documents/Weiwei/website/bbcube.github.io/index.html	/^  <div id="pattern"><\/div>$/;"	function	line:16
-div	/Users/stars/Documents/Weiwei/website/bbcube.github.io/index.html	/^  <div id="badge"><\/div>$/;"	function	line:17
-div	/Users/stars/Documents/Weiwei/website/bbcube.github.io/index.html	/^  <div class="top">$/;"	function	line:19
-div	/Users/stars/Documents/Weiwei/website/bbcube.github.io/index.html	/^    <div id="logo"><\/div>$/;"	function	line:20
-div	/Users/stars/Documents/Weiwei/website/bbcube.github.io/index.html	/^  <div class="hero">$/;"	function	line:23
-div	/Users/stars/Documents/Weiwei/website/bbcube.github.io/index.html	/^    <div id="bwc"><\/div>$/;"	function	line:24
-div	/Users/stars/Documents/Weiwei/website/bbcube.github.io/index.html	/^  <div class="bottom">$/;"	function	line:27
-link	/Users/stars/Documents/Weiwei/website/bbcube.github.io/index.html	/^    <link href="\/\/cdn-images.mailchimp.com\/embedcode\/horizontal-slim-10_7.css" rel="stylesheet" type="text\/css">$/;"	function	line:29
-style	/Users/stars/Documents/Weiwei/website/bbcube.github.io/index.html	/^    <style type="text\/css">$/;"	function	line:30
-div	/Users/stars/Documents/Weiwei/website/bbcube.github.io/index.html	/^    <div id="mailchimp">$/;"	function	line:35
-form	/Users/stars/Documents/Weiwei/website/bbcube.github.io/index.html	/^      <form action="https:\/\/fun.us19.list-manage.com\/subscribe\/post?u=a339c2b3dfeb96e15a4764030&amp;id=affe1de48d" method="post" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>$/;"	function	line:36
-input	/Users/stars/Documents/Weiwei/website/bbcube.github.io/index.html	/^          <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Your email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your email'"required>$/;"	function	line:38
-input	/Users/stars/Documents/Weiwei/website/bbcube.github.io/index.html	/^          <input type="submit" value="Tune in" name="subscribe">$/;"	function	line:40
-body	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^body {$/;"	function	line:1
-@keyframes slide	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^@keyframes slide{$/;"	function	line:12
-0%	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^  0%{$/;"	function	line:13
-100%	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^  100%{$/;"	function	line:16
-@font-face	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^@font-face {$/;"	function	line:21
-src: url('../font/Larsseit-Bold.woff') format('woff')	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^  src: url('..\/font\/Larsseit-Bold.woff') format('woff'),$/;"	function	line:23
-.top	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^.top{$/;"	function	line:26
-.hero	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^.hero{$/;"	function	line:35
-.bottom	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^.bottom{$/;"	function	line:44
-#logo	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^#logo {$/;"	function	line:54
-#badge	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^#badge {$/;"	function	line:65
-#pattern	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^#pattern {$/;"	function	line:79
-#bwc	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^#bwc {$/;"	function	line:88
-#mailchimp	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^#mailchimp{$/;"	function	line:98
-#mailchimp input[type="email"]	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^#mailchimp input[type="email"]{$/;"	function	line:104
-#mailchimp input[type="submit"]	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^#mailchimp input[type="submit"]{$/;"	function	line:116
-::-webkit-input-placeholder	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^::-webkit-input-placeholder { \/* Chrome\/Opera\/Safari *\/$/;"	function	line:129
-#mailchimp input[type="email"]:hover	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^#mailchimp input[type="email"]:hover,$/;"	function	line:134
-#mailchimp input[type="email"]:focus	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^#mailchimp input[type="email"]:focus {$/;"	function	line:135
-#mailchimp input[type="submit"]:hover	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^#mailchimp input[type="submit"]:hover,$/;"	function	line:141
-#mailchimp input[type="submit"]:focus	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^#mailchimp input[type="submit"]:focus {$/;"	function	line:142
-#mailchimp input[type="submit"]:active	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^#mailchimp input[type="submit"]:active {$/;"	function	line:149
-#toplayer	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^#toplayer {$/;"	function	line:156
-@media all and (min-width: 568px) and (max-width: 1304px)	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^@media all and (min-width: 568px) and (max-width: 1304px){$/;"	function	line:172
-#badge	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^    #badge {width:150px;height:150px;margin-top:60px;right:60px;}$/;"	function	line:174
-@media all and (min-width: 360px) and (max-width: 568px)	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^@media all and (min-width: 360px) and (max-width: 568px){$/;"	function	line:178
-#badge	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^    #badge {width:120px;height:120px;margin-top:10vh;right:30px;}$/;"	function	line:180
-#logo	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^    #logo {width:150px;height:50px;}$/;"	function	line:181
-#bwc	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^    #bwc {width:90%;height:80%;background-image: url('..\/images\/bwc2.png');}$/;"	function	line:182
-form	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^    form { margin-top: -100px; display: flex; justify-content: center;$/;"	function	line:185
-#mailchimp input[type="submit"]	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^    #mailchimp input[type="submit"]{$/;"	function	line:188
-#mailchimp input[type="email"]	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^    #mailchimp input[type="email"]{$/;"	function	line:195
-#mailchimp input[type="submit"]:hover	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^    #mailchimp input[type="submit"]:hover,$/;"	function	line:199
-#mailchimp input[type="submit"]:focus	/Users/stars/Documents/Weiwei/website/bbcube.github.io/css/styles.css	/^    #mailchimp input[type="submit"]:focus {$/;"	function	line:200
