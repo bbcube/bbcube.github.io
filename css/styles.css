@@ -167,7 +167,14 @@ body {
     .hero{height:50vh;}
     .bottom{height:35vh;}
 
+}
 
+a:link {
+    text-decoration: none;
+    color: #fdce07;
+}
 
-
+a:hover {
+    text-decoration: none;
+    color: #050a37;
 }
